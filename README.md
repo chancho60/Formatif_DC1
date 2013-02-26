@@ -6,7 +6,7 @@ Ce repository sert d'exemple pour l'examen formatif du cours 420-DC1-DM.
 Créateurs
 ---------
 
-* Le créateur original de ce document est Louis M.
+* Le créateur original de ce document est �tienne B.
 
 Projet EiffelTurtle
 ===============
@@ -16,7 +16,7 @@ Le projet de ce repository permet d'apprendre la syntaxe du langage de programma
 Créateurs
 ---------
 
-* Le créateur original de ce projet est Louis M.
+* Le créateur original de ce projet est �tienne B.
 * L'image de tortue vient du projet PythonTurtle licencé MIT (http://pythonturtle.org).
 
 Requis
